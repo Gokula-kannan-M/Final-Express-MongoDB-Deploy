@@ -24,12 +24,7 @@ const Navbar = () => {
         <div className="hidden md:flex items-center space-x-4">
           <button className="text-white bg-yellow-400 hover:bg-yellow-500 font-semibold px-4 py-1.5 rounded-md transition duration-200">
             Admin
-          </button>
-          <img
-            src="https://i.pravatar.cc/40"
-            alt="User Avatar"
-            className="w-9 h-9 rounded-full border-2 border-white cursor-pointer hover:scale-105 transition-transform"
-          />
+          </button> 
         </div>
 
         {/* Mobile Toggle Button */}
