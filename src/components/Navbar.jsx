@@ -21,11 +21,11 @@ const Navbar = () => {
         </ul>
 
         {/* User Avatar / Login Button */}
-        <div className="hidden md:flex items-center space-x-4">
+        {/* <div className="hidden md:flex items-center space-x-4">
           <button className="text-white bg-yellow-400 hover:bg-yellow-500 font-semibold px-4 py-1.5 rounded-md transition duration-200">
             Admin
           </button> 
-        </div>
+        </div> */}
 
         {/* Mobile Toggle Button */}
         <button
