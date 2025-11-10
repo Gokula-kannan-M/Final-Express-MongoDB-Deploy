@@ -56,6 +56,7 @@ const Register = () => {
           placeholder="password"
           onChange={change}
         />
+    
         <input
           value={form.imageUrl}
           required
